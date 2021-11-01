@@ -1,5 +1,5 @@
 # DeepMediation: De-biased Deep Learning for Semi-parametric Causal Mediation Analysis
-DeepMediation is an approach for semi-parametric causal mediation analysis to estimate the natrual (in)direct effects of a binary treatment on an outcome of interet. DeepMediation adopts the deep neural networks to estimate the nuisance parameters involved in the influence functions of the natrual (in)direct effects.
+DeepMediation is an approach for semi-parametric causal mediation analysis to estimate the natrual (in)direct effects of a binary treatment on an outcome of interet. DeepMediation adopts the deep neural networks to estimate the nuisance parameters involved in the influence functions of the potential outcomes.
 ## Setup
 The DeepMediation package will use the R package "keras" to establish the neural networks. Therefore, make sure that this package has 
 been installed, which is available on R CRAN https://CRAN.R-project.org/package=keras. 
